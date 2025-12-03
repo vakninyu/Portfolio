@@ -147,17 +147,17 @@ body {
 
 .hero-visual {
     position: relative;
-    width: 260px;
+    width: 360px;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .pixel-frame {
-    width: 220px;
+    width: 200px;
     height: 220px;
     border-radius: 24px;
-    background: #111827;
+    background: #c2bddf;
     padding: 18px;
     box-shadow: 0 18px 40px rgba(15, 23, 42, 0.5);
     display: flex;
